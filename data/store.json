@@ -1,0 +1,221 @@
+{
+  "settings": {
+    "storeName": "أثر",
+    "whatsapp": "201030263241",
+    "currency": "ج.م",
+    "primaryColor": "#111111",
+    "accentColor": "#c9a452",
+    "announcement": "شحن لكل محافظات مصر  •  تأكيد الطلب بسهولة عبر واتساب",
+    "heroTitle": "خططك النهارده، أثر نجاحك بكرة",
+    "heroSubtitle": "دفاتر وأدوات تنظيم بتصاميم ملهمة تساعدك ترتب يومك وتوثّق خطواتك.",
+    "heroImage": "uploads/daftar-alnajah.jpg",
+    "heroButton": "اكتشف المجموعة",
+    "categoriesTitle": "اختار اللي يناسب يومك",
+    "featuredTitle": "منتجات أثر",
+    "newTitle": "وصل حديثًا",
+    "reviewsTitle": "كلام ترك أثرًا",
+    "aboutTitle": "كل تفصيلة لها معنى",
+    "aboutText": "في أثر نختار كل قطعة بهدوء واهتمام؛ من ملمس الورق حتى آخر لمسة في التغليف، علشان توصلك حاجة بسيطة لكن تفضل معاك.",
+    "shippingNote": "تكلفة الشحن تُحسب حسب المحافظة، ويتم تأكيد الطلب والموعد عبر واتساب.",
+    "footerNote": "مصنوع بحب ليترك أثرًا جميلًا."
+  },
+  "products": [
+    {
+      "id": "second-floor-success",
+      "name": "دفتر الطابق الثاني: النجاح",
+      "category": "دفاتر",
+      "price": 80,
+      "oldPrice": 120,
+      "shortDescription": "دفتر سلك بتصميم ملهم يرافق خطواتك نحو النجاح.",
+      "description": "دفتر بتجليد سلك وغلاف مصوّر بتصميم «الطابق الثاني: النجاح»؛ مناسب للدراسة، تدوين الملاحظات، والخطط اليومية.",
+      "image": "uploads/daftar-alnajah.jpg",
+      "images": [
+        "uploads/daftar-alnajah.jpg"
+      ],
+      "available": true,
+      "featured": true,
+      "isNew": false,
+      "order": 1,
+      "material": "غلاف مقوّى وتجليد سلك",
+      "size": ""
+    },
+    {
+      "id": "ratteb-mahamak",
+      "name": "تو دو ليست رتّب مهامك",
+      "category": "تنظيم وتخطيط",
+      "price": 40,
+      "oldPrice": 0,
+      "shortDescription": "قائمة مهام عملية تساعدك تكتب مهامك وتتابع إنجازها.",
+      "description": "تو دو ليست بتصميم هادئ وتقسيم عملي لتنظيم مهامك اليومية ومتابعة ما تم إنجازه.",
+      "image": "uploads/ratteb-mahamak.jpg",
+      "images": [
+        "uploads/ratteb-mahamak.jpg"
+      ],
+      "available": true,
+      "featured": true,
+      "isNew": false,
+      "order": 2,
+      "material": "ورق مطبوع وتجليد سلك علوي",
+      "size": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "notebooks",
+      "name": "دفاتر",
+      "image": "uploads/daftar-alnajah.jpg",
+      "description": "دفاتر بتصاميم ملهمة",
+      "order": 1
+    },
+    {
+      "id": "planning",
+      "name": "تنظيم وتخطيط",
+      "image": "uploads/ratteb-mahamak.jpg",
+      "description": "أدوات بسيطة لترتيب يومك",
+      "order": 2
+    }
+  ],
+  "shipping": [
+    {
+      "governorate": "القاهرة",
+      "cost": 60,
+      "available": true
+    },
+    {
+      "governorate": "الجيزة",
+      "cost": 65,
+      "available": true
+    },
+    {
+      "governorate": "القليوبية",
+      "cost": 65,
+      "available": true
+    },
+    {
+      "governorate": "الإسكندرية",
+      "cost": 75,
+      "available": true
+    },
+    {
+      "governorate": "البحيرة",
+      "cost": 75,
+      "available": true
+    },
+    {
+      "governorate": "الغربية",
+      "cost": 75,
+      "available": true
+    },
+    {
+      "governorate": "الدقهلية",
+      "cost": 75,
+      "available": true
+    },
+    {
+      "governorate": "الشرقية",
+      "cost": 75,
+      "available": true
+    },
+    {
+      "governorate": "المنوفية",
+      "cost": 75,
+      "available": true
+    },
+    {
+      "governorate": "كفر الشيخ",
+      "cost": 80,
+      "available": true
+    },
+    {
+      "governorate": "دمياط",
+      "cost": 80,
+      "available": true
+    },
+    {
+      "governorate": "بورسعيد",
+      "cost": 85,
+      "available": true
+    },
+    {
+      "governorate": "الإسماعيلية",
+      "cost": 85,
+      "available": true
+    },
+    {
+      "governorate": "السويس",
+      "cost": 85,
+      "available": true
+    },
+    {
+      "governorate": "الفيوم",
+      "cost": 80,
+      "available": true
+    },
+    {
+      "governorate": "بني سويف",
+      "cost": 80,
+      "available": true
+    },
+    {
+      "governorate": "المنيا",
+      "cost": 90,
+      "available": true
+    },
+    {
+      "governorate": "أسيوط",
+      "cost": 90,
+      "available": true
+    },
+    {
+      "governorate": "سوهاج",
+      "cost": 95,
+      "available": true
+    },
+    {
+      "governorate": "قنا",
+      "cost": 100,
+      "available": true
+    },
+    {
+      "governorate": "الأقصر",
+      "cost": 100,
+      "available": true
+    },
+    {
+      "governorate": "أسوان",
+      "cost": 110,
+      "available": true
+    },
+    {
+      "governorate": "البحر الأحمر",
+      "cost": 110,
+      "available": true
+    },
+    {
+      "governorate": "الوادي الجديد",
+      "cost": 120,
+      "available": true
+    },
+    {
+      "governorate": "مطروح",
+      "cost": 110,
+      "available": true
+    },
+    {
+      "governorate": "شمال سيناء",
+      "cost": 120,
+      "available": true
+    },
+    {
+      "governorate": "جنوب سيناء",
+      "cost": 120,
+      "available": true
+    }
+  ],
+  "reviews": [],
+  "meta": {
+    "source": "local-fallback-two-products",
+    "productCount": 2,
+    "categoryCount": 2
+  }
+}
