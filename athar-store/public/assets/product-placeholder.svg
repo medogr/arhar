@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="صورة المنتج غير متاحة">
-  <rect width="800" height="800" fill="#f2ece2"/>
-  <circle cx="400" cy="340" r="112" fill="none" stroke="#c9a452" stroke-width="4" opacity=".55"/>
-  <path d="M400 270c-42 0-77 34-77 77 0 55-16 93-42 124M400 297c-28 0-50 22-50 50 0 72-20 123-57 164M400 324c-13 0-24 10-24 23 0 83-21 145-66 201M400 270c42 0 77 34 77 77 0 55 16 93 42 124M400 297c28 0 50 22 50 50 0 72 20 123 57 164M400 324c13 0 24 10 24 23 0 83 21 145 66 201M400 347c0 96 0 142-44 214M400 347c0 96 0 142 44 214" fill="none" stroke="#b68d37" stroke-width="10" stroke-linecap="round" opacity=".75"/>
-  <text x="400" y="630" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#6b655d">أثر</text>
-</svg>
