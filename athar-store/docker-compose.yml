@@ -1,0 +1,14 @@
+services:
+  athar-store:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      HOST: 0.0.0.0
+      PORT: 3000
+      ADMIN_PASSWORD: "غيّر-كلمة-المرور-قبل-النشر"
+    volumes:
+      - ./data:/app/data
+      - ./public/uploads:/app/public/uploads
